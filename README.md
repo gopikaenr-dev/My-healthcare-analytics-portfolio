@@ -19,7 +19,8 @@ to ICU capacity to global disease surveillance.
 - Found that patients with 6+ prior visits had a 25.5% readmission rate
 - Diabetes was the highest-risk disease group at 13%
 
-![Readmissions Dashboard](Readmissions Dashboard.png)
+![Readmissions Dashboard](Readmissions%20Dashboard.png)
+
 
 ---
 
@@ -29,7 +30,8 @@ to ICU capacity to global disease surveillance.
   even when overall hospital occupancy looked manageable
 - Top admission drivers: Asthma (72), Pneumonia (68), Hypertension (67)
 
-![ICU Dashboard](ICU Dashboard.png)
+![ICU Dashboard](ICU%20Dashboard.png)
+
 
 ---
 
@@ -38,7 +40,7 @@ to ICU capacity to global disease surveillance.
 - Built 7-day average trend lines and geographic impact maps
 - US accounted for 54bn of total tracked cases
 
-![Disease Dashboard](Disease Dashboard.png)
+![Disease Dashboard](Disease%20Dashboard.png)
 
 ---
 
